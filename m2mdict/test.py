@@ -28,6 +28,7 @@ class DelTest(TestCase):
 
 if __name__ == '__main__':
     print 'add a test'
+    print 'just for testing linthub'
     # unittest.main(argv=[sys.argv[0]])
     # d = m2mdict([("img/x-jpeg", "jpg"), ("img/jpeg", "jpg"), ("img/jpeg", "jepg")])
     # l = list([{'a': 1, 'b': 2}])
